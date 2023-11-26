@@ -4,7 +4,7 @@
 1. 程式的相關資訊以及`download.py`中有需要更新`comcrawl`中的程式請參考:https://github.com/neil-zt/common-crawl-client/tree/main
 
 2. 請將取得的程式更改
- * download.py
+* download.py
 ```js
 searching_uri = "www.cna.com.tw/news/afe/*"
 ```
@@ -85,4 +85,4 @@ def process_table(table_element):
     return table_text
 ```
 ## 使用方法
-
+1. 請先使用`download.py`，並設定`time_code`。`time_code`可從Common Crawl的[官網列表](https://commoncrawl.org/get-started)獲得。
