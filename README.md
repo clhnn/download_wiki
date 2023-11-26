@@ -2,7 +2,8 @@
 此示範程式皆為Python
 ## download.py
 程式內有需要更新comcrawl中的程式以及程式的相關資訊請參考:https://github.com/neil-zt/common-crawl-client/tree/main
-將原程式
+
+請將原程式
 ```js
 searching_uri = "www.cna.com.tw/news/afe/*"
 ```
