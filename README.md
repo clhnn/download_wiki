@@ -1,9 +1,9 @@
 # **Introduction**
 此示範程式皆為Python
 ## download.py以及web_parse.py
-1.程式的相關資訊以及`download.py`中有需要更新`comcrawl`中的程式請參考:https://github.com/neil-zt/common-crawl-client/tree/main
+1. 程式的相關資訊以及`download.py`中有需要更新`comcrawl`中的程式請參考:https://github.com/neil-zt/common-crawl-client/tree/main
 
-2.請將取得的程式更改
+2. 請將取得的程式更改
 - download.py
 ```js
 searching_uri = "www.cna.com.tw/news/afe/*"
