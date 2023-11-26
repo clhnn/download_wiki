@@ -2,6 +2,7 @@
 此示範程式皆為Python
 ## download.py以及web_parse.py
 1.程式內有需要更新comcrawl中的程式以及程式的相關資訊請參考:https://github.com/neil-zt/common-crawl-client/tree/main
+
 2.請將取得的程式更改
 ###### download.py
 ```js
