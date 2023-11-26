@@ -4,7 +4,7 @@
 1. 程式的相關資訊以及`download.py`中有需要更新`comcrawl`中的程式請參考:https://github.com/neil-zt/common-crawl-client/tree/main
 
 2. 請將取得的程式更改
-    * download.py
+ * download.py
 ```js
 searching_uri = "www.cna.com.tw/news/afe/*"
 ```
@@ -28,7 +28,7 @@ for result in client.results:
     with open(f"output/{time_code}/{searching_uri_dir}/{result['urlkey'].replace('/', '-')}.txt", "w") as f:
         f.write(extracted_text)
 ```
-- web_parse.py
+* web_parse.py
 ```js
 from bs4 import BeautifulSoup
 
