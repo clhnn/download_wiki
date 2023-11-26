@@ -85,4 +85,4 @@ def process_table(table_element):
     return table_text
 ```
 ## 使用方法
-1. 請先使用`download.py`，並設定`time_code`。`time_code`可從Common Crawl的[官網列表](https://commoncrawl.org/get-started)獲得。最後會得到`output`檔案，檔案內會有數個CSV檔。
+1. 請先使用`download.py`，並設定`time_code`。`time_code`可從Common Crawl的[官網列表](https://commoncrawl.org/get-started)獲得。最後會得到一個資料夾`output`，資料夾內會有數個CSV檔。
