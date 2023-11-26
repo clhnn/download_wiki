@@ -28,7 +28,7 @@ for result in client.results:
     with open(f"output/{time_code}/{searching_uri_dir}/{result['urlkey'].replace('/', '-')}.txt", "w") as f:
         f.write(extracted_text)
 ```
-###### web_parse.py
+- web_parse.py
 ```js
 from bs4 import BeautifulSoup
 
