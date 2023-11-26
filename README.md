@@ -5,7 +5,7 @@
 
 請將從https://github.com/neil-zt/common-crawl-client/tree/main
 取得的程式更改
-\.```js
+```js
 searching_uri = "www.cna.com.tw/news/afe/*"
 ```
 ```js
